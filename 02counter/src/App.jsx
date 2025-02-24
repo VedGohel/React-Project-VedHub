@@ -23,6 +23,7 @@ function App() {
 
   //removeValue functions working but prevent 
   // a counter like negative value.
+  //ved
   const removeValue = () => {
     if(counter>0){
     setCounter(counter - 1)
